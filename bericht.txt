@@ -1,0 +1,9 @@
+- Datum: Unbekannt
+- Ort: Friendheim
+- Fahrtrichtung: Süden
+- Fahrzeugtyp: Tesla
+- Kennzeichen: PPMN3003
+- Gemessene Geschwindigkeit: 160 km/h
+- Erlaubte Geschwindigkeit: 60 km/h
+- Geschwindigkeitsüberschreitung (nach Abzug der Toleranz von 10 km/h): 90 km/h
+- Messender Beamter: E. Möhre
